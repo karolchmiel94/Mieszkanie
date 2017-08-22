@@ -4,4 +4,7 @@
     <string name="action_settings">Ustawienia</string>
     <string name="calendar">Kalendarz</string>
     <string name="shopping_list">List zakupów</string>
+    <string name="report">Zgłoś błąd</string>
+    <string name="logout">Wyloguj</string>
+    <string name="add">Dodaj:</string>
 </resources>
